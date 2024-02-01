@@ -54,7 +54,7 @@ def get_openai_response(question, model, platform):
     if json_fields:
         user_content = f"Pick the json key for this EDI key '{question}'? Pick the best suited from this list of json keys: {json_fields}."
     else:
-        user_content = f"{question} is not found. Here are all the json fields you can choose from: {all_json_fields_combined}."
+        user_content = f"{question} is not found. Here are all the json fields you can choose from: {all_json_fields_combined}.Keep your explanation short and to the point."
 
     client = OpenAI(api_key="")
     response = client.chat.completions.create(
