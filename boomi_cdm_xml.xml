@@ -1,0 +1,1471 @@
+<?xml version="1.0" encoding="UTF-8"?><Component xmlns:bns="http://api.platform.boomi.com/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" componentId="7d08cbd8-934f-4a38-b009-8f39148b44b2" createdBy="chirag.rade-c@turing.com" createdDate="2024-01-30T16:31:12Z" currentVersion="true" deleted="false" folderFullPath="Turing" folderId="Rjo2NDY1MTE4" folderName="Turing" modifiedBy="chirag.rade-c@turing.com" modifiedDate="2024-01-30T16:31:12Z" name="New JSON Profile" type="profile.json" version="1">
+  <bns:encryptedValues/>
+  <bns:description/>
+  <bns:object>
+    <JSONProfile strict="false">
+      <DataElements>
+        <JSONRootValue dataType="character" isMappable="true" isNode="true" key="1" name="Root">
+          <DataFormat>
+            <ProfileCharacterFormat/>
+          </DataFormat>
+          <JSONObject isMappable="false" isNode="true" key="2" name="Object">
+            <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="3" name="CorrelationId">
+              <DataFormat>
+                <ProfileCharacterFormat/>
+              </DataFormat>
+            </JSONObjectEntry>
+            <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="4" name="ApplicationType">
+              <DataFormat>
+                <ProfileCharacterFormat/>
+              </DataFormat>
+            </JSONObjectEntry>
+            <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="5" name="CustomerPo">
+              <DataFormat>
+                <ProfileCharacterFormat/>
+              </DataFormat>
+            </JSONObjectEntry>
+            <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="6" name="EdiProperties">
+              <DataFormat>
+                <ProfileCharacterFormat/>
+              </DataFormat>
+              <JSONObject isMappable="false" isNode="true" key="7" name="Object">
+                <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="8" name="AckFileDateTime">
+                  <DataFormat>
+                    <ProfileCharacterFormat/>
+                  </DataFormat>
+                </JSONObjectEntry>
+                <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="9" name="AckFileName">
+                  <DataFormat>
+                    <ProfileCharacterFormat/>
+                  </DataFormat>
+                </JSONObjectEntry>
+                <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="10" name="CorrelationId">
+                  <DataFormat>
+                    <ProfileCharacterFormat/>
+                  </DataFormat>
+                </JSONObjectEntry>
+                <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="11" name="DestFileDateTime">
+                  <DataFormat>
+                    <ProfileCharacterFormat/>
+                  </DataFormat>
+                </JSONObjectEntry>
+                <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="12" name="DestFileName">
+                  <DataFormat>
+                    <ProfileCharacterFormat/>
+                  </DataFormat>
+                </JSONObjectEntry>
+                <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="13" name="GSControlNumber">
+                  <DataFormat>
+                    <ProfileCharacterFormat/>
+                  </DataFormat>
+                </JSONObjectEntry>
+                <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="14" name="GSReceiverId">
+                  <DataFormat>
+                    <ProfileCharacterFormat/>
+                  </DataFormat>
+                </JSONObjectEntry>
+                <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="15" name="GSSenderId">
+                  <DataFormat>
+                    <ProfileCharacterFormat/>
+                  </DataFormat>
+                </JSONObjectEntry>
+                <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="16" name="GSVersion">
+                  <DataFormat>
+                    <ProfileCharacterFormat/>
+                  </DataFormat>
+                </JSONObjectEntry>
+                <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="17" name="ISAControlNumber">
+                  <DataFormat>
+                    <ProfileCharacterFormat/>
+                  </DataFormat>
+                </JSONObjectEntry>
+                <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="18" name="ISAReceiverId">
+                  <DataFormat>
+                    <ProfileCharacterFormat/>
+                  </DataFormat>
+                </JSONObjectEntry>
+                <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="19" name="ISAReceiverQualifier">
+                  <DataFormat>
+                    <ProfileCharacterFormat/>
+                  </DataFormat>
+                </JSONObjectEntry>
+                <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="20" name="ISASenderId">
+                  <DataFormat>
+                    <ProfileCharacterFormat/>
+                  </DataFormat>
+                </JSONObjectEntry>
+                <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="21" name="ISASenderQualifier">
+                  <DataFormat>
+                    <ProfileCharacterFormat/>
+                  </DataFormat>
+                </JSONObjectEntry>
+                <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="22" name="ISAVersion">
+                  <DataFormat>
+                    <ProfileCharacterFormat/>
+                  </DataFormat>
+                </JSONObjectEntry>
+                <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="23" name="STControlNumber">
+                  <DataFormat>
+                    <ProfileCharacterFormat/>
+                  </DataFormat>
+                </JSONObjectEntry>
+                <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="24" name="SourceFileDateTime">
+                  <DataFormat>
+                    <ProfileCharacterFormat/>
+                  </DataFormat>
+                </JSONObjectEntry>
+                <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="25" name="SourceFileName">
+                  <DataFormat>
+                    <ProfileCharacterFormat/>
+                  </DataFormat>
+                </JSONObjectEntry>
+                <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="26" name="TransactionSetId">
+                  <DataFormat>
+                    <ProfileCharacterFormat/>
+                  </DataFormat>
+                </JSONObjectEntry>
+                <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="27" name="TransactionSetPurposeCode">
+                  <DataFormat>
+                    <ProfileCharacterFormat/>
+                  </DataFormat>
+                </JSONObjectEntry>
+              </JSONObject>
+            </JSONObjectEntry>
+            <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="28" name="Equipment">
+              <DataFormat>
+                <ProfileCharacterFormat/>
+              </DataFormat>
+              <JSONArray elementType="repeating" isMappable="false" isNode="true" key="29" name="Array">
+                <JSONArrayElement dataType="character" isMappable="true" isNode="true" key="30" maxOccurs="-1" minOccurs="0" name="ArrayElement1">
+                  <DataFormat>
+                    <ProfileCharacterFormat/>
+                  </DataFormat>
+                  <JSONObject isMappable="false" isNode="true" key="31" name="Object">
+                    <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="32" name="Code">
+                      <DataFormat>
+                        <ProfileCharacterFormat/>
+                      </DataFormat>
+                    </JSONObjectEntry>
+                    <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="33" name="EquipmentNumber">
+                      <DataFormat>
+                        <ProfileCharacterFormat/>
+                      </DataFormat>
+                    </JSONObjectEntry>
+                    <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="34" name="HasDunnage">
+                      <DataFormat>
+                        <ProfileCharacterFormat/>
+                      </DataFormat>
+                    </JSONObjectEntry>
+                    <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="35" name="HasSeals">
+                      <DataFormat>
+                        <ProfileCharacterFormat/>
+                      </DataFormat>
+                    </JSONObjectEntry>
+                    <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="36" name="Height">
+                      <DataFormat>
+                        <ProfileCharacterFormat/>
+                      </DataFormat>
+                    </JSONObjectEntry>
+                    <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="37" name="IsTemperatureControlled">
+                      <DataFormat>
+                        <ProfileCharacterFormat/>
+                      </DataFormat>
+                    </JSONObjectEntry>
+                    <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="38" name="Length">
+                      <DataFormat>
+                        <ProfileCharacterFormat/>
+                      </DataFormat>
+                    </JSONObjectEntry>
+                    <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="39" name="NumberOfCompartments">
+                      <DataFormat>
+                        <ProfileCharacterFormat/>
+                      </DataFormat>
+                    </JSONObjectEntry>
+                    <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="40" name="TareWeight">
+                      <DataFormat>
+                        <ProfileCharacterFormat/>
+                      </DataFormat>
+                    </JSONObjectEntry>
+                    <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="41" name="Temperature">
+                      <DataFormat>
+                        <ProfileCharacterFormat/>
+                      </DataFormat>
+                    </JSONObjectEntry>
+                    <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="42" name="Volume">
+                      <DataFormat>
+                        <ProfileCharacterFormat/>
+                      </DataFormat>
+                    </JSONObjectEntry>
+                    <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="43" name="Weight">
+                      <DataFormat>
+                        <ProfileCharacterFormat/>
+                      </DataFormat>
+                    </JSONObjectEntry>
+                    <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="44" name="WeightAllowance">
+                      <DataFormat>
+                        <ProfileCharacterFormat/>
+                      </DataFormat>
+                    </JSONObjectEntry>
+                  </JSONObject>
+                </JSONArrayElement>
+              </JSONArray>
+            </JSONObjectEntry>
+            <JSONObjectEntry dataType="number" isMappable="true" isNode="true" key="45" name="FreightRate">
+              <DataFormat>
+                <ProfileNumberFormat/>
+              </DataFormat>
+            </JSONObjectEntry>
+            <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="46" name="FreightTerm">
+              <DataFormat>
+                <ProfileCharacterFormat/>
+              </DataFormat>
+            </JSONObjectEntry>
+            <JSONObjectEntry dataType="number" isMappable="true" isNode="true" key="47" name="LadingQuantity">
+              <DataFormat>
+                <ProfileNumberFormat/>
+              </DataFormat>
+            </JSONObjectEntry>
+            <JSONObjectEntry dataType="number" isMappable="true" isNode="true" key="48" name="LegacyCustomerID">
+              <DataFormat>
+                <ProfileNumberFormat/>
+              </DataFormat>
+            </JSONObjectEntry>
+            <JSONObjectEntry dataType="number" isMappable="true" isNode="true" key="49" name="LegacyTPProfileID">
+              <DataFormat>
+                <ProfileNumberFormat/>
+              </DataFormat>
+            </JSONObjectEntry>
+            <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="50" name="LoadAddresses">
+              <DataFormat>
+                <ProfileCharacterFormat/>
+              </DataFormat>
+              <JSONArray elementType="repeating" isMappable="false" isNode="true" key="51" name="Array">
+                <JSONArrayElement dataType="character" isMappable="true" isNode="true" key="52" maxOccurs="-1" minOccurs="0" name="ArrayElement1">
+                  <DataFormat>
+                    <ProfileCharacterFormat/>
+                  </DataFormat>
+                  <JSONObject isMappable="false" isNode="true" key="53" name="Object">
+                    <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="54" name="AddressName">
+                      <DataFormat>
+                        <ProfileCharacterFormat/>
+                      </DataFormat>
+                    </JSONObjectEntry>
+                    <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="55" name="AddressQualifier">
+                      <DataFormat>
+                        <ProfileCharacterFormat/>
+                      </DataFormat>
+                    </JSONObjectEntry>
+                    <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="56" name="City">
+                      <DataFormat>
+                        <ProfileCharacterFormat/>
+                      </DataFormat>
+                    </JSONObjectEntry>
+                    <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="57" name="Country">
+                      <DataFormat>
+                        <ProfileCharacterFormat/>
+                      </DataFormat>
+                    </JSONObjectEntry>
+                    <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="58" name="State">
+                      <DataFormat>
+                        <ProfileCharacterFormat/>
+                      </DataFormat>
+                    </JSONObjectEntry>
+                    <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="59" name="StreetAddress">
+                      <DataFormat>
+                        <ProfileCharacterFormat/>
+                      </DataFormat>
+                    </JSONObjectEntry>
+                    <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="60" name="Zip">
+                      <DataFormat>
+                        <ProfileCharacterFormat/>
+                      </DataFormat>
+                    </JSONObjectEntry>
+                  </JSONObject>
+                </JSONArrayElement>
+              </JSONArray>
+            </JSONObjectEntry>
+            <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="61" name="ArchiveFiles">
+              <DataFormat>
+                <ProfileCharacterFormat/>
+              </DataFormat>
+              <JSONArray elementType="repeating" isMappable="false" isNode="true" key="62" name="Array">
+                <JSONArrayElement dataType="character" isMappable="true" isNode="true" key="63" maxOccurs="-1" minOccurs="0" name="ArrayElement1">
+                  <DataFormat>
+                    <ProfileCharacterFormat/>
+                  </DataFormat>
+                  <JSONObject isMappable="false" isNode="true" key="64" name="Object">
+                    <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="65" name="ArchiveFileDateTime">
+                      <DataFormat>
+                        <ProfileCharacterFormat/>
+                      </DataFormat>
+                    </JSONObjectEntry>
+                    <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="66" name="ArchiveFilePath">
+                      <DataFormat>
+                        <ProfileCharacterFormat/>
+                      </DataFormat>
+                    </JSONObjectEntry>
+                    <JSONObjectEntry dataType="number" isMappable="true" isNode="true" key="67" name="ArchiveFileType">
+                      <DataFormat>
+                        <ProfileNumberFormat/>
+                      </DataFormat>
+                    </JSONObjectEntry>
+                  </JSONObject>
+                </JSONArrayElement>
+              </JSONArray>
+            </JSONObjectEntry>
+            <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="68" name="LoadPalletExchange">
+              <DataFormat>
+                <ProfileCharacterFormat/>
+              </DataFormat>
+              <JSONObject isMappable="false" isNode="true" key="69" name="Object">
+                <JSONObjectEntry dataType="number" isMappable="true" isNode="true" key="70" name="Quantity">
+                  <DataFormat>
+                    <ProfileNumberFormat/>
+                  </DataFormat>
+                </JSONObjectEntry>
+              </JSONObject>
+            </JSONObjectEntry>
+            <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="71" name="LoadReferenceNumbers">
+              <DataFormat>
+                <ProfileCharacterFormat/>
+              </DataFormat>
+              <JSONArray elementType="repeating" isMappable="false" isNode="true" key="72" name="Array">
+                <JSONArrayElement dataType="character" isMappable="true" isNode="true" key="73" maxOccurs="-1" minOccurs="0" name="ArrayElement1">
+                  <DataFormat>
+                    <ProfileCharacterFormat/>
+                  </DataFormat>
+                  <JSONObject isMappable="false" isNode="true" key="74" name="Object">
+                    <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="75" name="Date">
+                      <DataFormat>
+                        <ProfileCharacterFormat/>
+                      </DataFormat>
+                    </JSONObjectEntry>
+                    <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="76" name="ReferenceNumber">
+                      <DataFormat>
+                        <ProfileCharacterFormat/>
+                      </DataFormat>
+                    </JSONObjectEntry>
+                    <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="77" name="ReferenceNumberQualifier">
+                      <DataFormat>
+                        <ProfileCharacterFormat/>
+                      </DataFormat>
+                    </JSONObjectEntry>
+                    <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="78" name="Time">
+                      <DataFormat>
+                        <ProfileCharacterFormat/>
+                      </DataFormat>
+                    </JSONObjectEntry>
+                  </JSONObject>
+                </JSONArrayElement>
+              </JSONArray>
+            </JSONObjectEntry>
+            <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="79" name="LoadRemarks">
+              <DataFormat>
+                <ProfileCharacterFormat/>
+              </DataFormat>
+              <JSONArray elementType="repeating" isMappable="false" isNode="true" key="80" name="Array">
+                <JSONArrayElement dataType="character" isMappable="true" isNode="true" key="81" maxOccurs="-1" minOccurs="0" name="ArrayElement1">
+                  <DataFormat>
+                    <ProfileCharacterFormat/>
+                  </DataFormat>
+                  <JSONObject isMappable="false" isNode="true" key="82" name="Object">
+                    <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="83" name="CreatedBy">
+                      <DataFormat>
+                        <ProfileCharacterFormat/>
+                      </DataFormat>
+                    </JSONObjectEntry>
+                    <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="84" name="CreatedOn">
+                      <DataFormat>
+                        <ProfileCharacterFormat/>
+                      </DataFormat>
+                    </JSONObjectEntry>
+                    <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="85" name="ModifiedBy">
+                      <DataFormat>
+                        <ProfileCharacterFormat/>
+                      </DataFormat>
+                    </JSONObjectEntry>
+                    <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="86" name="ModifiedOn">
+                      <DataFormat>
+                        <ProfileCharacterFormat/>
+                      </DataFormat>
+                    </JSONObjectEntry>
+                    <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="87" name="RemarkQualifier">
+                      <DataFormat>
+                        <ProfileCharacterFormat/>
+                      </DataFormat>
+                    </JSONObjectEntry>
+                    <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="88" name="RemarkText">
+                      <DataFormat>
+                        <ProfileCharacterFormat/>
+                      </DataFormat>
+                    </JSONObjectEntry>
+                  </JSONObject>
+                </JSONArrayElement>
+              </JSONArray>
+            </JSONObjectEntry>
+            <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="89" name="RateQualifier" validateData="false">
+              <DataFormat>
+                <ProfileCharacterFormat/>
+              </DataFormat>
+              <Qualifiers>
+                <QualifierList/>
+              </Qualifiers>
+            </JSONObjectEntry>
+            <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="90" name="SCAC">
+              <DataFormat>
+                <ProfileCharacterFormat/>
+              </DataFormat>
+            </JSONObjectEntry>
+            <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="91" name="ShipmentId">
+              <DataFormat>
+                <ProfileCharacterFormat/>
+              </DataFormat>
+            </JSONObjectEntry>
+            <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="92" name="Stops">
+              <DataFormat>
+                <ProfileCharacterFormat/>
+              </DataFormat>
+              <JSONArray elementType="absolute" isMappable="false" isNode="true" key="93" name="Array">
+                <JSONArrayElement dataType="character" isMappable="true" isNode="true" key="94" maxOccurs="1" minOccurs="0" name="ArrayElement1">
+                  <DataFormat>
+                    <ProfileCharacterFormat/>
+                  </DataFormat>
+                  <JSONObject isMappable="false" isNode="true" key="95" name="Object">
+                    <JSONObjectEntry dataType="boolean" isMappable="true" isNode="true" key="96" name="IsFirstStop">
+                      <DataFormat/>
+                    </JSONObjectEntry>
+                    <JSONObjectEntry dataType="boolean" isMappable="true" isNode="true" key="97" name="IsLastStop">
+                      <DataFormat/>
+                    </JSONObjectEntry>
+                    <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="98" name="OrderDetailInfos">
+                      <DataFormat>
+                        <ProfileCharacterFormat/>
+                      </DataFormat>
+                      <JSONArray elementType="repeating" isMappable="false" isNode="true" key="99" name="Array">
+                        <JSONArrayElement dataType="character" isMappable="true" isNode="true" key="100" maxOccurs="-1" minOccurs="0" name="ArrayElement1">
+                          <DataFormat>
+                            <ProfileCharacterFormat/>
+                          </DataFormat>
+                          <JSONObject isMappable="false" isNode="true" key="101" name="Object">
+                            <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="102" name="PurchaseOrderNumber">
+                              <DataFormat>
+                                <ProfileCharacterFormat/>
+                              </DataFormat>
+                            </JSONObjectEntry>
+                            <JSONObjectEntry dataType="number" isMappable="true" isNode="true" key="103" name="Quantity">
+                              <DataFormat>
+                                <ProfileNumberFormat/>
+                              </DataFormat>
+                            </JSONObjectEntry>
+                            <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="104" name="ReferenceId">
+                              <DataFormat>
+                                <ProfileCharacterFormat/>
+                              </DataFormat>
+                            </JSONObjectEntry>
+                            <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="105" name="ReferenceId2">
+                              <DataFormat>
+                                <ProfileCharacterFormat/>
+                              </DataFormat>
+                            </JSONObjectEntry>
+                            <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="106" name="UnitOfMeasureQuantity">
+                              <DataFormat>
+                                <ProfileCharacterFormat/>
+                              </DataFormat>
+                            </JSONObjectEntry>
+                            <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="107" name="UnitOfMeasureVolume">
+                              <DataFormat>
+                                <ProfileCharacterFormat/>
+                              </DataFormat>
+                            </JSONObjectEntry>
+                            <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="108" name="UnitOfMeasureWeight">
+                              <DataFormat>
+                                <ProfileCharacterFormat/>
+                              </DataFormat>
+                            </JSONObjectEntry>
+                            <JSONObjectEntry dataType="number" isMappable="true" isNode="true" key="109" name="Volume">
+                              <DataFormat>
+                                <ProfileNumberFormat/>
+                              </DataFormat>
+                            </JSONObjectEntry>
+                            <JSONObjectEntry dataType="number" isMappable="true" isNode="true" key="110" name="Weight">
+                              <DataFormat>
+                                <ProfileNumberFormat/>
+                              </DataFormat>
+                            </JSONObjectEntry>
+                            <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="111" name="OrderDetailInfoLineItems">
+                              <DataFormat>
+                                <ProfileCharacterFormat/>
+                              </DataFormat>
+                              <JSONArray elementType="repeating" isMappable="false" isNode="true" key="112" name="Array">
+                                <JSONArrayElement dataType="character" isMappable="true" isNode="true" key="113" maxOccurs="-1" minOccurs="0" name="ArrayElement1">
+                                  <DataFormat>
+                                    <ProfileCharacterFormat/>
+                                  </DataFormat>
+                                  <JSONObject isMappable="false" isNode="true" key="114" name="Object">
+                                    <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="115" name="LadingDescription">
+                                      <DataFormat>
+                                        <ProfileCharacterFormat/>
+                                      </DataFormat>
+                                    </JSONObjectEntry>
+                                    <JSONObjectEntry dataType="number" isMappable="true" isNode="true" key="116" name="LadingQuantity">
+                                      <DataFormat>
+                                        <ProfileNumberFormat/>
+                                      </DataFormat>
+                                    </JSONObjectEntry>
+                                    <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="117" name="PackagingFormCode">
+                                      <DataFormat>
+                                        <ProfileCharacterFormat/>
+                                      </DataFormat>
+                                    </JSONObjectEntry>
+                                    <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="118" name="ProductServiceID1">
+                                      <DataFormat>
+                                        <ProfileCharacterFormat/>
+                                      </DataFormat>
+                                    </JSONObjectEntry>
+                                    <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="119" name="ProductServiceIDQualifier1">
+                                      <DataFormat>
+                                        <ProfileCharacterFormat/>
+                                      </DataFormat>
+                                    </JSONObjectEntry>
+                                    <JSONObjectEntry dataType="number" isMappable="true" isNode="true" key="120" name="Weight">
+                                      <DataFormat>
+                                        <ProfileNumberFormat/>
+                                      </DataFormat>
+                                    </JSONObjectEntry>
+                                    <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="121" name="UnitOfMeasureWeight">
+                                      <DataFormat>
+                                        <ProfileCharacterFormat/>
+                                      </DataFormat>
+                                    </JSONObjectEntry>
+                                  </JSONObject>
+                                </JSONArrayElement>
+                              </JSONArray>
+                            </JSONObjectEntry>
+                          </JSONObject>
+                        </JSONArrayElement>
+                      </JSONArray>
+                    </JSONObjectEntry>
+                    <JSONObjectEntry dataType="number" isMappable="true" isNode="true" key="122" name="ShipmentLadingQuantity1">
+                      <DataFormat>
+                        <ProfileNumberFormat/>
+                      </DataFormat>
+                    </JSONObjectEntry>
+                    <JSONObjectEntry dataType="number" isMappable="true" isNode="true" key="123" name="ShipmentLadingQuantity2">
+                      <DataFormat>
+                        <ProfileNumberFormat/>
+                      </DataFormat>
+                    </JSONObjectEntry>
+                    <JSONObjectEntry dataType="number" isMappable="true" isNode="true" key="124" name="ShipmentWeight">
+                      <DataFormat>
+                        <ProfileNumberFormat/>
+                      </DataFormat>
+                    </JSONObjectEntry>
+                    <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="125" name="StopAddress">
+                      <DataFormat>
+                        <ProfileCharacterFormat/>
+                      </DataFormat>
+                      <JSONObject isMappable="false" isNode="true" key="126" name="Object">
+                        <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="127" name="AddressId">
+                          <DataFormat>
+                            <ProfileCharacterFormat/>
+                          </DataFormat>
+                        </JSONObjectEntry>
+                        <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="128" name="AddressIdQualifier">
+                          <DataFormat>
+                            <ProfileCharacterFormat/>
+                          </DataFormat>
+                        </JSONObjectEntry>
+                        <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="129" name="AddressName">
+                          <DataFormat>
+                            <ProfileCharacterFormat/>
+                          </DataFormat>
+                        </JSONObjectEntry>
+                        <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="130" name="AddressQualifier">
+                          <DataFormat>
+                            <ProfileCharacterFormat/>
+                          </DataFormat>
+                        </JSONObjectEntry>
+                        <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="131" name="City">
+                          <DataFormat>
+                            <ProfileCharacterFormat/>
+                          </DataFormat>
+                        </JSONObjectEntry>
+                        <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="132" name="Country">
+                          <DataFormat>
+                            <ProfileCharacterFormat/>
+                          </DataFormat>
+                        </JSONObjectEntry>
+                        <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="133" name="State">
+                          <DataFormat>
+                            <ProfileCharacterFormat/>
+                          </DataFormat>
+                        </JSONObjectEntry>
+                        <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="134" name="StreetAddress">
+                          <DataFormat>
+                            <ProfileCharacterFormat/>
+                          </DataFormat>
+                        </JSONObjectEntry>
+                        <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="135" name="Zip">
+                          <DataFormat>
+                            <ProfileCharacterFormat/>
+                          </DataFormat>
+                        </JSONObjectEntry>
+                      </JSONObject>
+                    </JSONObjectEntry>
+                    <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="136" name="StopContacts">
+                      <DataFormat>
+                        <ProfileCharacterFormat/>
+                      </DataFormat>
+                      <JSONArray elementType="repeating" isMappable="false" isNode="true" key="137" name="Array">
+                        <JSONArrayElement dataType="character" isMappable="true" isNode="true" key="138" maxOccurs="-1" minOccurs="0" name="ArrayElement1">
+                          <DataFormat>
+                            <ProfileCharacterFormat/>
+                          </DataFormat>
+                          <JSONObject isMappable="false" isNode="true" key="139" name="Object">
+                            <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="140" name="FirstName">
+                              <DataFormat>
+                                <ProfileCharacterFormat/>
+                              </DataFormat>
+                            </JSONObjectEntry>
+                            <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="141" name="NameQualifier">
+                              <DataFormat>
+                                <ProfileCharacterFormat/>
+                              </DataFormat>
+                            </JSONObjectEntry>
+                            <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="142" name="PhoneNumber">
+                              <DataFormat>
+                                <ProfileCharacterFormat/>
+                              </DataFormat>
+                            </JSONObjectEntry>
+                            <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="143" name="PhoneNumberQualifier">
+                              <DataFormat>
+                                <ProfileCharacterFormat/>
+                              </DataFormat>
+                            </JSONObjectEntry>
+                          </JSONObject>
+                        </JSONArrayElement>
+                      </JSONArray>
+                    </JSONObjectEntry>
+                    <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="144" name="StopDateTimes">
+                      <DataFormat>
+                        <ProfileCharacterFormat/>
+                      </DataFormat>
+                      <JSONArray elementType="repeating" isMappable="false" isNode="true" key="145" name="Array">
+                        <JSONArrayElement dataType="character" isMappable="true" isNode="true" key="146" maxOccurs="-1" minOccurs="0" name="ArrayElement1">
+                          <DataFormat>
+                            <ProfileCharacterFormat/>
+                          </DataFormat>
+                          <JSONObject isMappable="false" isNode="true" key="147" name="Object">
+                            <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="148" name="Date">
+                              <DataFormat>
+                                <ProfileCharacterFormat/>
+                              </DataFormat>
+                            </JSONObjectEntry>
+                            <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="149" name="DateQualifier">
+                              <DataFormat>
+                                <ProfileCharacterFormat/>
+                              </DataFormat>
+                            </JSONObjectEntry>
+                            <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="150" name="Time">
+                              <DataFormat>
+                                <ProfileCharacterFormat/>
+                              </DataFormat>
+                            </JSONObjectEntry>
+                            <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="151" name="TimeQualifier">
+                              <DataFormat>
+                                <ProfileCharacterFormat/>
+                              </DataFormat>
+                            </JSONObjectEntry>
+                          </JSONObject>
+                        </JSONArrayElement>
+                      </JSONArray>
+                    </JSONObjectEntry>
+                    <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="152" name="StopPalletExchanges">
+                      <DataFormat>
+                        <ProfileCharacterFormat/>
+                      </DataFormat>
+                      <JSONArray elementType="repeating" isMappable="false" isNode="true" key="153" name="Array">
+                        <JSONArrayElement dataType="character" isMappable="true" isNode="true" key="154" maxOccurs="-1" minOccurs="0" name="ArrayElement1">
+                          <DataFormat>
+                            <ProfileCharacterFormat/>
+                          </DataFormat>
+                          <JSONObject isMappable="false" isNode="true" key="155" name="Object">
+                            <JSONObjectEntry dataType="number" isMappable="true" isNode="true" key="156" name="Quantity">
+                              <DataFormat>
+                                <ProfileNumberFormat/>
+                              </DataFormat>
+                            </JSONObjectEntry>
+                          </JSONObject>
+                        </JSONArrayElement>
+                      </JSONArray>
+                    </JSONObjectEntry>
+                    <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="157" name="StopReasonCode">
+                      <DataFormat>
+                        <ProfileCharacterFormat/>
+                      </DataFormat>
+                    </JSONObjectEntry>
+                    <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="158" name="StopReferenceNumbers">
+                      <DataFormat>
+                        <ProfileCharacterFormat/>
+                      </DataFormat>
+                      <JSONArray elementType="repeating" isMappable="false" isNode="true" key="159" name="Array">
+                        <JSONArrayElement dataType="character" isMappable="true" isNode="true" key="160" maxOccurs="-1" minOccurs="0" name="ArrayElement1">
+                          <DataFormat>
+                            <ProfileCharacterFormat/>
+                          </DataFormat>
+                          <JSONObject isMappable="false" isNode="true" key="161" name="Object">
+                            <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="162" name="Date">
+                              <DataFormat>
+                                <ProfileCharacterFormat/>
+                              </DataFormat>
+                            </JSONObjectEntry>
+                            <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="163" name="ReferenceNumber">
+                              <DataFormat>
+                                <ProfileCharacterFormat/>
+                              </DataFormat>
+                            </JSONObjectEntry>
+                            <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="164" name="ReferenceNumberQualifier">
+                              <DataFormat>
+                                <ProfileCharacterFormat/>
+                              </DataFormat>
+                            </JSONObjectEntry>
+                            <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="165" name="Time">
+                              <DataFormat>
+                                <ProfileCharacterFormat/>
+                              </DataFormat>
+                            </JSONObjectEntry>
+                          </JSONObject>
+                        </JSONArrayElement>
+                      </JSONArray>
+                    </JSONObjectEntry>
+                    <JSONObjectEntry dataType="number" isMappable="true" isNode="true" key="166" name="StopSequence">
+                      <DataFormat>
+                        <ProfileNumberFormat/>
+                      </DataFormat>
+                    </JSONObjectEntry>
+                    <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="167" name="StopType">
+                      <DataFormat>
+                        <ProfileCharacterFormat/>
+                      </DataFormat>
+                    </JSONObjectEntry>
+                    <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="168" name="UnitOfMeasureShipmentWeight">
+                      <DataFormat>
+                        <ProfileCharacterFormat/>
+                      </DataFormat>
+                    </JSONObjectEntry>
+                    <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="169" name="WeightQualifier">
+                      <DataFormat>
+                        <ProfileCharacterFormat/>
+                      </DataFormat>
+                    </JSONObjectEntry>
+                  </JSONObject>
+                </JSONArrayElement>
+                <JSONArrayElement dataType="character" isMappable="true" isNode="true" key="170" maxOccurs="1" minOccurs="0" name="ArrayElement2">
+                  <DataFormat>
+                    <ProfileCharacterFormat/>
+                  </DataFormat>
+                  <JSONObject isMappable="false" isNode="true" key="171" name="Object">
+                    <JSONObjectEntry dataType="boolean" isMappable="true" isNode="true" key="172" name="IsFirstStop">
+                      <DataFormat/>
+                    </JSONObjectEntry>
+                    <JSONObjectEntry dataType="boolean" isMappable="true" isNode="true" key="173" name="IsLastStop">
+                      <DataFormat/>
+                    </JSONObjectEntry>
+                    <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="174" name="OrderDetailInfos">
+                      <DataFormat>
+                        <ProfileCharacterFormat/>
+                      </DataFormat>
+                      <JSONArray elementType="repeating" isMappable="false" isNode="true" key="175" name="Array">
+                        <JSONArrayElement dataType="character" isMappable="true" isNode="true" key="176" maxOccurs="-1" minOccurs="0" name="ArrayElement1">
+                          <DataFormat>
+                            <ProfileCharacterFormat/>
+                          </DataFormat>
+                          <JSONObject isMappable="false" isNode="true" key="177" name="Object">
+                            <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="178" name="PurchaseOrderNumber">
+                              <DataFormat>
+                                <ProfileCharacterFormat/>
+                              </DataFormat>
+                            </JSONObjectEntry>
+                            <JSONObjectEntry dataType="number" isMappable="true" isNode="true" key="179" name="Quantity">
+                              <DataFormat>
+                                <ProfileNumberFormat/>
+                              </DataFormat>
+                            </JSONObjectEntry>
+                            <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="180" name="ReferenceId">
+                              <DataFormat>
+                                <ProfileCharacterFormat/>
+                              </DataFormat>
+                            </JSONObjectEntry>
+                            <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="181" name="ReferenceId2">
+                              <DataFormat>
+                                <ProfileCharacterFormat/>
+                              </DataFormat>
+                            </JSONObjectEntry>
+                            <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="182" name="UnitOfMeasureQuantity">
+                              <DataFormat>
+                                <ProfileCharacterFormat/>
+                              </DataFormat>
+                            </JSONObjectEntry>
+                            <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="183" name="UnitOfMeasureVolume">
+                              <DataFormat>
+                                <ProfileCharacterFormat/>
+                              </DataFormat>
+                            </JSONObjectEntry>
+                            <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="184" name="UnitOfMeasureWeight">
+                              <DataFormat>
+                                <ProfileCharacterFormat/>
+                              </DataFormat>
+                            </JSONObjectEntry>
+                            <JSONObjectEntry dataType="number" isMappable="true" isNode="true" key="185" name="Volume">
+                              <DataFormat>
+                                <ProfileNumberFormat/>
+                              </DataFormat>
+                            </JSONObjectEntry>
+                            <JSONObjectEntry dataType="number" isMappable="true" isNode="true" key="186" name="Weight">
+                              <DataFormat>
+                                <ProfileNumberFormat/>
+                              </DataFormat>
+                            </JSONObjectEntry>
+                            <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="187" name="OrderDetailInfoLineItems">
+                              <DataFormat>
+                                <ProfileCharacterFormat/>
+                              </DataFormat>
+                              <JSONArray elementType="repeating" isMappable="false" isNode="true" key="188" name="Array">
+                                <JSONArrayElement dataType="character" isMappable="true" isNode="true" key="189" maxOccurs="-1" minOccurs="0" name="ArrayElement1">
+                                  <DataFormat>
+                                    <ProfileCharacterFormat/>
+                                  </DataFormat>
+                                  <JSONObject isMappable="false" isNode="true" key="190" name="Object">
+                                    <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="191" name="LadingDescription">
+                                      <DataFormat>
+                                        <ProfileCharacterFormat/>
+                                      </DataFormat>
+                                    </JSONObjectEntry>
+                                    <JSONObjectEntry dataType="number" isMappable="true" isNode="true" key="192" name="LadingQuantity">
+                                      <DataFormat>
+                                        <ProfileNumberFormat/>
+                                      </DataFormat>
+                                    </JSONObjectEntry>
+                                    <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="193" name="PackagingFormCode">
+                                      <DataFormat>
+                                        <ProfileCharacterFormat/>
+                                      </DataFormat>
+                                    </JSONObjectEntry>
+                                    <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="194" name="ProductServiceID1">
+                                      <DataFormat>
+                                        <ProfileCharacterFormat/>
+                                      </DataFormat>
+                                    </JSONObjectEntry>
+                                    <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="195" name="ProductServiceIDQualifier1">
+                                      <DataFormat>
+                                        <ProfileCharacterFormat/>
+                                      </DataFormat>
+                                    </JSONObjectEntry>
+                                    <JSONObjectEntry dataType="number" isMappable="true" isNode="true" key="196" name="Weight">
+                                      <DataFormat>
+                                        <ProfileNumberFormat/>
+                                      </DataFormat>
+                                    </JSONObjectEntry>
+                                    <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="197" name="UnitOfMeasureWeight">
+                                      <DataFormat>
+                                        <ProfileCharacterFormat/>
+                                      </DataFormat>
+                                    </JSONObjectEntry>
+                                  </JSONObject>
+                                </JSONArrayElement>
+                              </JSONArray>
+                            </JSONObjectEntry>
+                          </JSONObject>
+                        </JSONArrayElement>
+                      </JSONArray>
+                    </JSONObjectEntry>
+                    <JSONObjectEntry dataType="number" isMappable="true" isNode="true" key="198" name="ShipmentLadingQuantity1">
+                      <DataFormat>
+                        <ProfileNumberFormat/>
+                      </DataFormat>
+                    </JSONObjectEntry>
+                    <JSONObjectEntry dataType="number" isMappable="true" isNode="true" key="199" name="ShipmentLadingQuantity2">
+                      <DataFormat>
+                        <ProfileNumberFormat/>
+                      </DataFormat>
+                    </JSONObjectEntry>
+                    <JSONObjectEntry dataType="number" isMappable="true" isNode="true" key="200" name="ShipmentWeight">
+                      <DataFormat>
+                        <ProfileNumberFormat/>
+                      </DataFormat>
+                    </JSONObjectEntry>
+                    <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="201" name="StopAddress">
+                      <DataFormat>
+                        <ProfileCharacterFormat/>
+                      </DataFormat>
+                      <JSONObject isMappable="false" isNode="true" key="202" name="Object">
+                        <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="203" name="AddressId">
+                          <DataFormat>
+                            <ProfileCharacterFormat/>
+                          </DataFormat>
+                        </JSONObjectEntry>
+                        <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="204" name="AddressIdQualifier">
+                          <DataFormat>
+                            <ProfileCharacterFormat/>
+                          </DataFormat>
+                        </JSONObjectEntry>
+                        <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="205" name="AddressName">
+                          <DataFormat>
+                            <ProfileCharacterFormat/>
+                          </DataFormat>
+                        </JSONObjectEntry>
+                        <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="206" name="AddressQualifier">
+                          <DataFormat>
+                            <ProfileCharacterFormat/>
+                          </DataFormat>
+                        </JSONObjectEntry>
+                        <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="207" name="City">
+                          <DataFormat>
+                            <ProfileCharacterFormat/>
+                          </DataFormat>
+                        </JSONObjectEntry>
+                        <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="208" name="Country">
+                          <DataFormat>
+                            <ProfileCharacterFormat/>
+                          </DataFormat>
+                        </JSONObjectEntry>
+                        <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="209" name="State">
+                          <DataFormat>
+                            <ProfileCharacterFormat/>
+                          </DataFormat>
+                        </JSONObjectEntry>
+                        <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="210" name="StreetAddress">
+                          <DataFormat>
+                            <ProfileCharacterFormat/>
+                          </DataFormat>
+                        </JSONObjectEntry>
+                        <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="211" name="Zip">
+                          <DataFormat>
+                            <ProfileCharacterFormat/>
+                          </DataFormat>
+                        </JSONObjectEntry>
+                      </JSONObject>
+                    </JSONObjectEntry>
+                    <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="212" name="StopContacts">
+                      <DataFormat>
+                        <ProfileCharacterFormat/>
+                      </DataFormat>
+                      <JSONArray elementType="repeating" isMappable="false" isNode="true" key="213" name="Array">
+                        <JSONArrayElement dataType="character" isMappable="true" isNode="true" key="214" maxOccurs="-1" minOccurs="0" name="ArrayElement1">
+                          <DataFormat>
+                            <ProfileCharacterFormat/>
+                          </DataFormat>
+                          <JSONObject isMappable="false" isNode="true" key="215" name="Object">
+                            <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="216" name="FirstName">
+                              <DataFormat>
+                                <ProfileCharacterFormat/>
+                              </DataFormat>
+                            </JSONObjectEntry>
+                            <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="217" name="NameQualifier">
+                              <DataFormat>
+                                <ProfileCharacterFormat/>
+                              </DataFormat>
+                            </JSONObjectEntry>
+                            <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="218" name="PhoneNumber">
+                              <DataFormat>
+                                <ProfileCharacterFormat/>
+                              </DataFormat>
+                            </JSONObjectEntry>
+                            <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="219" name="PhoneNumberQualifier">
+                              <DataFormat>
+                                <ProfileCharacterFormat/>
+                              </DataFormat>
+                            </JSONObjectEntry>
+                          </JSONObject>
+                        </JSONArrayElement>
+                      </JSONArray>
+                    </JSONObjectEntry>
+                    <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="220" name="StopDateTimes">
+                      <DataFormat>
+                        <ProfileCharacterFormat/>
+                      </DataFormat>
+                      <JSONArray elementType="repeating" isMappable="false" isNode="true" key="221" name="Array">
+                        <JSONArrayElement dataType="character" isMappable="true" isNode="true" key="222" maxOccurs="-1" minOccurs="0" name="ArrayElement1">
+                          <DataFormat>
+                            <ProfileCharacterFormat/>
+                          </DataFormat>
+                          <JSONObject isMappable="false" isNode="true" key="223" name="Object">
+                            <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="224" name="Date">
+                              <DataFormat>
+                                <ProfileCharacterFormat/>
+                              </DataFormat>
+                            </JSONObjectEntry>
+                            <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="225" name="DateQualifier">
+                              <DataFormat>
+                                <ProfileCharacterFormat/>
+                              </DataFormat>
+                            </JSONObjectEntry>
+                            <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="226" name="Time">
+                              <DataFormat>
+                                <ProfileCharacterFormat/>
+                              </DataFormat>
+                            </JSONObjectEntry>
+                            <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="227" name="TimeQualifier">
+                              <DataFormat>
+                                <ProfileCharacterFormat/>
+                              </DataFormat>
+                            </JSONObjectEntry>
+                          </JSONObject>
+                        </JSONArrayElement>
+                      </JSONArray>
+                    </JSONObjectEntry>
+                    <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="228" name="StopPalletExchanges">
+                      <DataFormat>
+                        <ProfileCharacterFormat/>
+                      </DataFormat>
+                      <JSONArray elementType="repeating" isMappable="false" isNode="true" key="229" name="Array">
+                        <JSONArrayElement dataType="character" isMappable="true" isNode="true" key="230" maxOccurs="-1" minOccurs="0" name="ArrayElement1">
+                          <DataFormat>
+                            <ProfileCharacterFormat/>
+                          </DataFormat>
+                          <JSONObject isMappable="false" isNode="true" key="231" name="Object">
+                            <JSONObjectEntry dataType="number" isMappable="true" isNode="true" key="232" name="Quantity">
+                              <DataFormat>
+                                <ProfileNumberFormat/>
+                              </DataFormat>
+                            </JSONObjectEntry>
+                          </JSONObject>
+                        </JSONArrayElement>
+                      </JSONArray>
+                    </JSONObjectEntry>
+                    <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="233" name="StopReasonCode">
+                      <DataFormat>
+                        <ProfileCharacterFormat/>
+                      </DataFormat>
+                    </JSONObjectEntry>
+                    <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="234" name="StopReferenceNumbers">
+                      <DataFormat>
+                        <ProfileCharacterFormat/>
+                      </DataFormat>
+                      <JSONArray elementType="repeating" isMappable="false" isNode="true" key="235" name="Array">
+                        <JSONArrayElement dataType="character" isMappable="true" isNode="true" key="236" maxOccurs="-1" minOccurs="0" name="ArrayElement1">
+                          <DataFormat>
+                            <ProfileCharacterFormat/>
+                          </DataFormat>
+                          <JSONObject isMappable="false" isNode="true" key="237" name="Object">
+                            <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="238" name="Date">
+                              <DataFormat>
+                                <ProfileCharacterFormat/>
+                              </DataFormat>
+                            </JSONObjectEntry>
+                            <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="239" name="ReferenceNumber">
+                              <DataFormat>
+                                <ProfileCharacterFormat/>
+                              </DataFormat>
+                            </JSONObjectEntry>
+                            <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="240" name="ReferenceNumberQualifier">
+                              <DataFormat>
+                                <ProfileCharacterFormat/>
+                              </DataFormat>
+                            </JSONObjectEntry>
+                            <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="241" name="Time">
+                              <DataFormat>
+                                <ProfileCharacterFormat/>
+                              </DataFormat>
+                            </JSONObjectEntry>
+                          </JSONObject>
+                        </JSONArrayElement>
+                      </JSONArray>
+                    </JSONObjectEntry>
+                    <JSONObjectEntry dataType="number" isMappable="true" isNode="true" key="242" name="StopSequence">
+                      <DataFormat>
+                        <ProfileNumberFormat/>
+                      </DataFormat>
+                    </JSONObjectEntry>
+                    <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="243" name="StopType">
+                      <DataFormat>
+                        <ProfileCharacterFormat/>
+                      </DataFormat>
+                    </JSONObjectEntry>
+                    <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="244" name="UnitOfMeasureShipmentWeight">
+                      <DataFormat>
+                        <ProfileCharacterFormat/>
+                      </DataFormat>
+                    </JSONObjectEntry>
+                    <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="245" name="WeightQualifier">
+                      <DataFormat>
+                        <ProfileCharacterFormat/>
+                      </DataFormat>
+                    </JSONObjectEntry>
+                  </JSONObject>
+                </JSONArrayElement>
+                <JSONArrayElement dataType="character" isMappable="true" isNode="true" key="246" maxOccurs="1" minOccurs="0" name="ArrayElement3">
+                  <DataFormat>
+                    <ProfileCharacterFormat/>
+                  </DataFormat>
+                  <JSONObject isMappable="false" isNode="true" key="247" name="Object">
+                    <JSONObjectEntry dataType="boolean" isMappable="true" isNode="true" key="248" name="IsFirstStop">
+                      <DataFormat/>
+                    </JSONObjectEntry>
+                    <JSONObjectEntry dataType="boolean" isMappable="true" isNode="true" key="249" name="IsLastStop">
+                      <DataFormat/>
+                    </JSONObjectEntry>
+                    <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="250" name="OrderDetailInfos">
+                      <DataFormat>
+                        <ProfileCharacterFormat/>
+                      </DataFormat>
+                      <JSONArray elementType="repeating" isMappable="false" isNode="true" key="251" name="Array">
+                        <JSONArrayElement dataType="character" isMappable="true" isNode="true" key="252" maxOccurs="-1" minOccurs="0" name="ArrayElement1">
+                          <DataFormat>
+                            <ProfileCharacterFormat/>
+                          </DataFormat>
+                          <JSONObject isMappable="false" isNode="true" key="253" name="Object">
+                            <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="254" name="PurchaseOrderNumber">
+                              <DataFormat>
+                                <ProfileCharacterFormat/>
+                              </DataFormat>
+                            </JSONObjectEntry>
+                            <JSONObjectEntry dataType="number" isMappable="true" isNode="true" key="255" name="Quantity">
+                              <DataFormat>
+                                <ProfileNumberFormat/>
+                              </DataFormat>
+                            </JSONObjectEntry>
+                            <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="256" name="ReferenceId">
+                              <DataFormat>
+                                <ProfileCharacterFormat/>
+                              </DataFormat>
+                            </JSONObjectEntry>
+                            <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="257" name="ReferenceId2">
+                              <DataFormat>
+                                <ProfileCharacterFormat/>
+                              </DataFormat>
+                            </JSONObjectEntry>
+                            <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="258" name="UnitOfMeasureQuantity">
+                              <DataFormat>
+                                <ProfileCharacterFormat/>
+                              </DataFormat>
+                            </JSONObjectEntry>
+                            <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="259" name="UnitOfMeasureVolume">
+                              <DataFormat>
+                                <ProfileCharacterFormat/>
+                              </DataFormat>
+                            </JSONObjectEntry>
+                            <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="260" name="UnitOfMeasureWeight">
+                              <DataFormat>
+                                <ProfileCharacterFormat/>
+                              </DataFormat>
+                            </JSONObjectEntry>
+                            <JSONObjectEntry dataType="number" isMappable="true" isNode="true" key="261" name="Volume">
+                              <DataFormat>
+                                <ProfileNumberFormat/>
+                              </DataFormat>
+                            </JSONObjectEntry>
+                            <JSONObjectEntry dataType="number" isMappable="true" isNode="true" key="262" name="Weight">
+                              <DataFormat>
+                                <ProfileNumberFormat/>
+                              </DataFormat>
+                            </JSONObjectEntry>
+                            <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="263" name="OrderDetailInfoLineItems">
+                              <DataFormat>
+                                <ProfileCharacterFormat/>
+                              </DataFormat>
+                              <JSONArray elementType="repeating" isMappable="false" isNode="true" key="264" name="Array">
+                                <JSONArrayElement dataType="character" isMappable="true" isNode="true" key="265" maxOccurs="-1" minOccurs="0" name="ArrayElement1">
+                                  <DataFormat>
+                                    <ProfileCharacterFormat/>
+                                  </DataFormat>
+                                  <JSONObject isMappable="false" isNode="true" key="266" name="Object">
+                                    <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="267" name="LadingDescription">
+                                      <DataFormat>
+                                        <ProfileCharacterFormat/>
+                                      </DataFormat>
+                                    </JSONObjectEntry>
+                                    <JSONObjectEntry dataType="number" isMappable="true" isNode="true" key="268" name="LadingQuantity">
+                                      <DataFormat>
+                                        <ProfileNumberFormat/>
+                                      </DataFormat>
+                                    </JSONObjectEntry>
+                                    <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="269" name="PackagingFormCode">
+                                      <DataFormat>
+                                        <ProfileCharacterFormat/>
+                                      </DataFormat>
+                                    </JSONObjectEntry>
+                                    <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="270" name="ProductServiceID1">
+                                      <DataFormat>
+                                        <ProfileCharacterFormat/>
+                                      </DataFormat>
+                                    </JSONObjectEntry>
+                                    <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="271" name="ProductServiceIDQualifier1">
+                                      <DataFormat>
+                                        <ProfileCharacterFormat/>
+                                      </DataFormat>
+                                    </JSONObjectEntry>
+                                    <JSONObjectEntry dataType="number" isMappable="true" isNode="true" key="272" name="Weight">
+                                      <DataFormat>
+                                        <ProfileNumberFormat/>
+                                      </DataFormat>
+                                    </JSONObjectEntry>
+                                    <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="273" name="UnitOfMeasureWeight">
+                                      <DataFormat>
+                                        <ProfileCharacterFormat/>
+                                      </DataFormat>
+                                    </JSONObjectEntry>
+                                  </JSONObject>
+                                </JSONArrayElement>
+                              </JSONArray>
+                            </JSONObjectEntry>
+                          </JSONObject>
+                        </JSONArrayElement>
+                      </JSONArray>
+                    </JSONObjectEntry>
+                    <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="274" name="PickupDeliveryNumber">
+                      <DataFormat>
+                        <ProfileCharacterFormat/>
+                      </DataFormat>
+                    </JSONObjectEntry>
+                    <JSONObjectEntry dataType="number" isMappable="true" isNode="true" key="275" name="ShipmentLadingQuantity1">
+                      <DataFormat>
+                        <ProfileNumberFormat/>
+                      </DataFormat>
+                    </JSONObjectEntry>
+                    <JSONObjectEntry dataType="number" isMappable="true" isNode="true" key="276" name="ShipmentLadingQuantity2">
+                      <DataFormat>
+                        <ProfileNumberFormat/>
+                      </DataFormat>
+                    </JSONObjectEntry>
+                    <JSONObjectEntry dataType="number" isMappable="true" isNode="true" key="277" name="ShipmentWeight">
+                      <DataFormat>
+                        <ProfileNumberFormat/>
+                      </DataFormat>
+                    </JSONObjectEntry>
+                    <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="278" name="StopAddress">
+                      <DataFormat>
+                        <ProfileCharacterFormat/>
+                      </DataFormat>
+                      <JSONObject isMappable="false" isNode="true" key="279" name="Object">
+                        <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="280" name="AddressId">
+                          <DataFormat>
+                            <ProfileCharacterFormat/>
+                          </DataFormat>
+                        </JSONObjectEntry>
+                        <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="281" name="AddressIdQualifier">
+                          <DataFormat>
+                            <ProfileCharacterFormat/>
+                          </DataFormat>
+                        </JSONObjectEntry>
+                        <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="282" name="AddressName">
+                          <DataFormat>
+                            <ProfileCharacterFormat/>
+                          </DataFormat>
+                        </JSONObjectEntry>
+                        <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="283" name="AddressQualifier">
+                          <DataFormat>
+                            <ProfileCharacterFormat/>
+                          </DataFormat>
+                        </JSONObjectEntry>
+                        <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="284" name="City">
+                          <DataFormat>
+                            <ProfileCharacterFormat/>
+                          </DataFormat>
+                        </JSONObjectEntry>
+                        <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="285" name="Country">
+                          <DataFormat>
+                            <ProfileCharacterFormat/>
+                          </DataFormat>
+                        </JSONObjectEntry>
+                        <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="286" name="State">
+                          <DataFormat>
+                            <ProfileCharacterFormat/>
+                          </DataFormat>
+                        </JSONObjectEntry>
+                        <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="287" name="StreetAddress">
+                          <DataFormat>
+                            <ProfileCharacterFormat/>
+                          </DataFormat>
+                        </JSONObjectEntry>
+                        <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="288" name="Zip">
+                          <DataFormat>
+                            <ProfileCharacterFormat/>
+                          </DataFormat>
+                        </JSONObjectEntry>
+                      </JSONObject>
+                    </JSONObjectEntry>
+                    <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="289" name="StopDateTimes">
+                      <DataFormat>
+                        <ProfileCharacterFormat/>
+                      </DataFormat>
+                      <JSONArray elementType="repeating" isMappable="false" isNode="true" key="290" name="Array">
+                        <JSONArrayElement dataType="character" isMappable="true" isNode="true" key="291" maxOccurs="-1" minOccurs="0" name="ArrayElement1">
+                          <DataFormat>
+                            <ProfileCharacterFormat/>
+                          </DataFormat>
+                          <JSONObject isMappable="false" isNode="true" key="292" name="Object">
+                            <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="293" name="Date">
+                              <DataFormat>
+                                <ProfileCharacterFormat/>
+                              </DataFormat>
+                            </JSONObjectEntry>
+                            <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="294" name="DateQualifier">
+                              <DataFormat>
+                                <ProfileCharacterFormat/>
+                              </DataFormat>
+                            </JSONObjectEntry>
+                            <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="295" name="Time">
+                              <DataFormat>
+                                <ProfileCharacterFormat/>
+                              </DataFormat>
+                            </JSONObjectEntry>
+                            <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="296" name="TimeQualifier">
+                              <DataFormat>
+                                <ProfileCharacterFormat/>
+                              </DataFormat>
+                            </JSONObjectEntry>
+                          </JSONObject>
+                        </JSONArrayElement>
+                      </JSONArray>
+                    </JSONObjectEntry>
+                    <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="297" name="StopPalletExchanges">
+                      <DataFormat>
+                        <ProfileCharacterFormat/>
+                      </DataFormat>
+                      <JSONArray elementType="repeating" isMappable="false" isNode="true" key="298" name="Array">
+                        <JSONArrayElement dataType="character" isMappable="true" isNode="true" key="299" maxOccurs="-1" minOccurs="0" name="ArrayElement1">
+                          <DataFormat>
+                            <ProfileCharacterFormat/>
+                          </DataFormat>
+                          <JSONObject isMappable="false" isNode="true" key="300" name="Object">
+                            <JSONObjectEntry dataType="number" isMappable="true" isNode="true" key="301" name="Quantity">
+                              <DataFormat>
+                                <ProfileNumberFormat/>
+                              </DataFormat>
+                            </JSONObjectEntry>
+                          </JSONObject>
+                        </JSONArrayElement>
+                      </JSONArray>
+                    </JSONObjectEntry>
+                    <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="302" name="StopReasonCode">
+                      <DataFormat>
+                        <ProfileCharacterFormat/>
+                      </DataFormat>
+                    </JSONObjectEntry>
+                    <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="303" name="StopReferenceNumbers">
+                      <DataFormat>
+                        <ProfileCharacterFormat/>
+                      </DataFormat>
+                      <JSONArray elementType="repeating" isMappable="false" isNode="true" key="304" name="Array">
+                        <JSONArrayElement dataType="character" isMappable="true" isNode="true" key="305" maxOccurs="-1" minOccurs="0" name="ArrayElement1">
+                          <DataFormat>
+                            <ProfileCharacterFormat/>
+                          </DataFormat>
+                          <JSONObject isMappable="false" isNode="true" key="306" name="Object">
+                            <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="307" name="Date">
+                              <DataFormat>
+                                <ProfileCharacterFormat/>
+                              </DataFormat>
+                            </JSONObjectEntry>
+                            <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="308" name="ReferenceNumber">
+                              <DataFormat>
+                                <ProfileCharacterFormat/>
+                              </DataFormat>
+                            </JSONObjectEntry>
+                            <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="309" name="ReferenceNumberQualifier">
+                              <DataFormat>
+                                <ProfileCharacterFormat/>
+                              </DataFormat>
+                            </JSONObjectEntry>
+                            <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="310" name="Time">
+                              <DataFormat>
+                                <ProfileCharacterFormat/>
+                              </DataFormat>
+                            </JSONObjectEntry>
+                          </JSONObject>
+                        </JSONArrayElement>
+                      </JSONArray>
+                    </JSONObjectEntry>
+                    <JSONObjectEntry dataType="number" isMappable="true" isNode="true" key="311" name="StopSequence">
+                      <DataFormat>
+                        <ProfileNumberFormat/>
+                      </DataFormat>
+                    </JSONObjectEntry>
+                    <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="312" name="StopType">
+                      <DataFormat>
+                        <ProfileCharacterFormat/>
+                      </DataFormat>
+                    </JSONObjectEntry>
+                    <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="313" name="UnitOfMeasureShipmentWeight">
+                      <DataFormat>
+                        <ProfileCharacterFormat/>
+                      </DataFormat>
+                    </JSONObjectEntry>
+                    <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="314" name="WeightQualifier">
+                      <DataFormat>
+                        <ProfileCharacterFormat/>
+                      </DataFormat>
+                    </JSONObjectEntry>
+                  </JSONObject>
+                </JSONArrayElement>
+              </JSONArray>
+            </JSONObjectEntry>
+            <JSONObjectEntry dataType="number" isMappable="true" isNode="true" key="315" name="TotalAdvance" validateData="false">
+              <DataFormat>
+                <ProfileNumberFormat/>
+              </DataFormat>
+              <Qualifiers>
+                <QualifierList/>
+              </Qualifiers>
+            </JSONObjectEntry>
+            <JSONObjectEntry dataType="number" isMappable="true" isNode="true" key="316" name="TotalCharge">
+              <DataFormat>
+                <ProfileNumberFormat/>
+              </DataFormat>
+            </JSONObjectEntry>
+            <JSONObjectEntry dataType="number" isMappable="true" isNode="true" key="317" name="TotalPallets" validateData="false">
+              <DataFormat>
+                <ProfileNumberFormat/>
+              </DataFormat>
+              <Qualifiers>
+                <QualifierList/>
+              </Qualifiers>
+            </JSONObjectEntry>
+            <JSONObjectEntry dataType="number" isMappable="true" isNode="true" key="318" name="TotalPrePaid">
+              <DataFormat>
+                <ProfileNumberFormat/>
+              </DataFormat>
+            </JSONObjectEntry>
+            <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="319" name="TqlLoadInfo">
+              <DataFormat>
+                <ProfileCharacterFormat/>
+              </DataFormat>
+              <JSONObject isMappable="false" isNode="true" key="320" name="Object">
+                <JSONObjectEntry dataType="number" isMappable="true" isNode="true" key="321" name="TrailerTypeId">
+                  <DataFormat>
+                    <ProfileNumberFormat/>
+                  </DataFormat>
+                </JSONObjectEntry>
+                <JSONObjectEntry dataType="number" isMappable="true" isNode="true" key="322" name="RateQualifier">
+                  <DataFormat>
+                    <ProfileNumberFormat/>
+                  </DataFormat>
+                </JSONObjectEntry>
+              </JSONObject>
+            </JSONObjectEntry>
+            <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="323" name="TruckOrderedNotUsed">
+              <DataFormat>
+                <ProfileCharacterFormat/>
+              </DataFormat>
+            </JSONObjectEntry>
+            <JSONObjectEntry dataType="number" isMappable="true" isNode="true" key="324" name="Weight">
+              <DataFormat>
+                <ProfileNumberFormat/>
+              </DataFormat>
+            </JSONObjectEntry>
+            <JSONObjectEntry dataType="character" isMappable="true" isNode="true" key="325" name="WeightQualifier">
+              <DataFormat>
+                <ProfileCharacterFormat/>
+              </DataFormat>
+            </JSONObjectEntry>
+          </JSONObject>
+          <Qualifiers>
+            <QualifierList/>
+          </Qualifiers>
+        </JSONRootValue>
+      </DataElements>
+      <tagLists/>
+    </JSONProfile>
+  </bns:object>
+</Component>
